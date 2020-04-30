@@ -1,0 +1,236 @@
+html
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration-color: #000000;
+}
+
+body
+{
+    background-color: #F0F8FF;
+}
+ 
+.Home
+{
+    max-width: 1080px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 15px;
+    overflow: hidden;
+}
+.blog
+{
+     text-align: center;
+     font-family: raleway;
+     margin-bottom: 80px;
+     font-family: comic sans MS;
+
+}
+ 
+header
+{
+    background-color: #696969;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-family: comic sans MS;
+    background-image: url(lambang4.jpg);
+}
+header img{
+    float: left;
+    width: 7%;
+    height: auto;
+    opacity: 0.5;
+
+}
+header h2
+{
+    margin-bottom: 7px;
+    font-size: 35px;
+}
+ 
+.navigasi ul 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#D3D3D3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+ 
+.navigasi li 
+{
+    float: left;
+}
+ 
+.navigasi li a 
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-family: comic sans MS;
+}
+ 
+.navigasi li a:hover 
+{
+    background-color:red;
+    transition-duration: 2s;
+    font-family: comic sans MS;
+}
+ 
+.Image
+{
+    margin-bottom: 15px;
+    display: block;
+    width: 100%;
+    height: 330px;
+}
+.motor
+{
+    width: 300px;
+    height: 180px; 
+}
+.fotokonten 
+{
+    width: 400px;
+    height: 200px;
+}
+.konten1
+{
+    background-color: #DCDCDC;
+    width: 467px;
+    height: 1100px;
+    border: 1px solid black;
+    float: left;
+    margin: 10px;
+    padding: 5px;
+    text-align: left;
+}
+.konten2
+{
+    background-color: #DCDCDC;
+    width: 467px;
+    height: 1100px;
+    border: 1px solid black;
+    float: left;
+    margin:10px;
+    padding: 5px;
+    text-align: left;
+}
+.konten3
+{
+    background-color: #DCDCDC;
+    width: 467px;
+    height: 1100px;
+    border: 1px solid black;
+    float: left;
+    margin:10px;
+    padding: 5px;
+    text-align: left;
+}
+.fotonews
+{
+    width: 300px;
+    height: 180px;
+    text-align: justify;
+}
+.news1
+{
+    background-color: #DCDCDC;
+    width: 467px;
+    height: 550px;
+    border: 1px solid black;
+    float: left;
+    margin:10px;
+    padding: 5px; 
+    text-align: justify;
+}
+.newsbmw
+{
+    background-color: #DCDCDC;
+    width: 750px;
+    height: 700px;
+    border: 1px solid black;
+    float: left;
+    margin:10px;
+    padding: 5px; 
+    text-align: justify;
+}
+.fotonewsbmw
+{
+    width: 600px;
+    height: 200px;
+    text-align: justify;
+}
+.newszx25
+{
+    background-color: #DCDCDC;
+    width: 750px;
+    height: 850px;
+    border: 1px solid black;
+    float: left;
+    margin:10px;
+    padding: 5px; 
+    text-align: justify;
+    float: top;
+}
+.fotonewszx25
+{
+    width: 600px;
+    height: 200px;
+
+}
+.newshonda
+{
+    background-color: #DCDCDC;
+    width: 750px;
+    height: 900px;
+    border: 1px solid black;
+    float: left;
+    margin:10px;
+    padding: 5px; 
+    text-align: justify;
+    float: top;
+}
+.fotonewshonda
+{
+    width: 600px;
+    height: 200px;
+}
+.ig 
+{
+    width: 30px;
+    height: 30px;
+}
+footer
+{
+    clear: both;
+    background-color: #000000;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+.Tentang
+{
+    text-align: center;
+}
+.containerfooter
+{
+    text-align: center;
+}
+.Comment
+{
+  background-color: #000000;
+  margin-top:0px;
+  color: white;
+  height: 60%;
+  padding: 50px;
+  font-family: comic sans MS;
+}
